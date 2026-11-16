@@ -6,4 +6,6 @@ Data analytics, Power BI, and business analysis projects with reproducible analy
 |---|---|---|
 | 2026-11-09 | [Retail sales and profitability](01-retail-profitability/) | Synthetic data, Python, SQL, KPI validation, static dashboard, Power BI guide, LinkedIn draft |
 
-Next planned project: customer retention. Retail project includes a Power BI implementation guide; no PBIX file is included.
+| 2026-11-16 | [Customer retention and cohorts](02-customer-retention/) | Synthetic data generator and preview, SQL, validation, dashboard, Power BI guide, LinkedIn draft |
+
+Next planned project: supply chain. Power BI implementation guides are included; no PBIX files are claimed.
