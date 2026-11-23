@@ -1,0 +1,40 @@
+{
+  "orders": 180,
+  "otif_orders": 57,
+  "otif_pct": 31.666666666666664,
+  "columns": [
+    "supplier",
+    "orders",
+    "otif_orders",
+    "otif_pct",
+    "unit_fill_pct",
+    "avg_days_late"
+  ],
+  "suppliers": [
+    [
+      "Atlas",
+      60,
+      21,
+      35.0,
+      94.84,
+      0.28
+    ],
+    [
+      "Birch",
+      60,
+      13,
+      21.67,
+      95.51,
+      2.05
+    ],
+    [
+      "Cedar",
+      60,
+      23,
+      38.33,
+      94.39,
+      0.63
+    ]
+  ],
+  "validation": "passed: unique PO keys, quantity bounds, OTIF definition, supplier reconciliation, independent weighted fill rates"
+}
